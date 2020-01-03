@@ -7,7 +7,7 @@ ROTF is a vaugely Hayek vs. Keynes themed, top down HTML5 shooter.  It is design
 With PHP, it can be tested by cloning, and then running:
 
 ```console
-$ php -S localhost:1234
+php -S localhost:1234
 ```
 
 Then navigate to http://localhost:1234/play.php
