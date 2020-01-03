@@ -177,11 +177,11 @@ $coins = 100;
 <div id='window'>
 	<div id='topbar'>
 		<div id="labelCoins"><?php echo $coins; ?></div>
-		<img src="../imgs/coin2.png">
+		<img src="imgs/coin2.png">
 		<b><div id="labelScore">0</div></b>
 		<!-- <div style="float: right; padding-right: 5px;">Score:</div> -->
 		<b><div id="labelHealth">100</div></b>
-		<img src="../imgs/heart.png">
+		<img src="imgs/heart.png">
 		<div id='labelHandle'><?php echo "Welcome <b>$player</b>"; ?></div>
 	</div>
 
